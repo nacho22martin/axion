@@ -135,14 +135,14 @@ jQuery(document).ready(function($) {
 		
 	
 		//TWITTER
-		getTwitters('twitter', {
+		/*getTwitters('twitter', {
 			id: 'wrapbootstrap',
 			count: 1,
 			enableLinks: true,
 			ignoreReplies: false,
 			template: '<i class="icon-twitter icon-circled icon-48 active"></i><br /><span class="twitterPrefix"><span class="twitterStatus">%text%</span><br /><em class="twitterTime"><a href="http://twitter.com/%user_screen_name%/statuses/%id_str%">Date - %time%</a></em>',
 			newwindow: true
-		});
+		});*/
 
 	
 		//flexslider
